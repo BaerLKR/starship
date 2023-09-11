@@ -1,5 +1,6 @@
 // While adding out new module add out module to src/module.rs ALL_MODULES const array also.
 mod aws;
+mod direnv;
 mod azure;
 mod buf;
 mod bun;
